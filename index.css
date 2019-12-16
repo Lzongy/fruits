@@ -8,7 +8,7 @@ header{
     display: inline-block;
 }
 .secnav{
-    width: 80px;
+    width: 100px;
     display: none;
     position: absolute;
     background: #f0f0f0;
@@ -17,6 +17,7 @@ header{
     border-radius: 7px;
     text-decoration: none;
     z-index: 99;
+    list-style-type:none;
 }
 .secnav li a{
     text-decoration: none;
